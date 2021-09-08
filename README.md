@@ -2,7 +2,7 @@
 Developed an interactive  website for a restaurant.
 ## Features
 Users can see the dishes, promotions, leaders of the restaurant.<br/>
-Registred users can reserve a table ,comment a dish, add dishes into his favorites and submit his feedback.<br/>
+Registered users can reserve a table ,comment a dish, add dishes into his favorites and submit his feedback.<br/>
 Admin can modify dishes,promotions,leaders in the restaurant.<br/>
 Admin can see the registered tables, feedbacks given by the users, and can see all the registered users.
 ## Tools/Technologies used
