@@ -1,9 +1,10 @@
 # Restaurant-App
 Developed an interactive  website for a restaurant.
 ## Features
-User can reserve a table ,comment a dish, add dishes into his favorites and submit his feedback.<br/>
+Users can see the dishes, promotions, leaders of the restaurant
+Registred users can reserve a table ,comment a dish, add dishes into his favorites and submit his feedback.<br/>
 Admin can modify dishes,promotions,leaders in the restaurant.<br/>
-Admin can see the registered tables,feedbacks,registered users in the restaurant.
+Admin can see the registered tables, feedbacks given by the users, and can see all the registered users.
 ## Tools/Technologies used
 React.js, Node.js, Express.js, MongoDB, HTML, CSS, Java Script
 ## How to start
